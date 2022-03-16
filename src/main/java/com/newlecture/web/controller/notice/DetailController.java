@@ -12,7 +12,7 @@ public class DetailController implements Controller{
 	public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response) throws Exception {
 		
 		ModelAndView mv = new ModelAndView("notice/detail");
-		//mv.setViewName("/WEB-INF/view/notice/list.jsp");
+		//mv.setViewName("/WEB-INF/view/notice/detail.jsp");
 		
 		return mv;
 	}

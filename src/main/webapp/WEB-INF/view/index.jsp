@@ -141,7 +141,7 @@
             <section class="course-info">
                 <h1 class="title text-center">뉴렉처 하이브리드 과정 모집</h1>
                 <ul class="list">
-                    <li>현재 모집 과정이 없습니다.</li>
+                    <li>현재 모집 과정이 없습니다.</li> 
                 </ul>
             </section>
             <section class="notice">
@@ -150,7 +150,7 @@
 
                     <li>
                         <span class="notice-title">
-                            <a href="notice/detail.html">스프링 8강까지의 예제 코드</a>
+                            <a href="notice/detail">스프링 8강까지의 예제 코드</a>
                         </span>
                         <span>2019-08-18</span>
                     </li>
